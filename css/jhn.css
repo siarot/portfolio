@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url("bimage/hello.jpg") no-repeat;
+    background-size: cover;
+  }
+  .box{
+    width: 550px;
+    background: rgba(99, 100, 100, 0.5);
+    padding: 50px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: '',sans-serif;
+  }
+  .box-img{
+    border-radius: 60%;
+    width: 220px;
+    height: 220px;
+  }
+  .box h1{
+    font-size: 35px;
+    letter-spacing: 1px;
+    font-weight: 100;
+  }
+  .box h5{
+    font-size: 30px;
+    font-family:'Georgia',serif;
+    font-weight: 100;
+     letter-spacing: 1px;
+  }
+  .box p1{
+    font-family:Arial, Helvetica, sans-serif;
+    letter-spacing:3px;
+    font-size: 20px;
+  }
+  .box p2{
+    text-align: justify;
+    font-family:Arial, Helvetica, sans-serif
+    font-size: 20px;
+
+  }
+  ul{
+    margin: 30px;
+    padding: 0;
+  
+  
+  }
+  .box li{
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+  }
+  .box li a{
+    color: white;
+    text-decoration: none;
+    font-size: 60px;
+    transition: all ease-in-out 250ms;
+  }
+  .box li a:hover{
+    color: #b9b9b9;
+  }

@@ -1,0 +1,67 @@
+
+.portfolio{
+    font-style: italic;
+    color: rgb(255, 255, 255);
+    position: relative; left: 50px; top: 20px;
+    position: fixed;
+}
+.aboutus{
+    font-style: italic;
+    color: rgb(252, 252, 252);
+    position: relative; left: 500px; top: 46px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.contactus{
+    font-style:italic;
+    color: rgb(253, 253, 253);
+    position: relative; left: 650px; top: 3px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.services{
+    font-style: italic;
+    color: rgb(255, 255, 255);
+    position: relative; left: 830px; top: -41px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.portfolio1{
+    font-style: italic;
+    color: rgb(255, 255, 255);
+    position: relative; left: 1290px; top: 45px;
+    position: fixed;
+}
+.img{
+    position: relative; bottom: 150px;
+}
+.img1{
+    position: relative; left: 1px; bottom: 150px;
+}
+.aboutus1{
+    font-style: italic;
+    color: rgb(255, 255, 255);
+    position: fixed;
+    left: 500px;
+    font-size: 75px;
+}
+.activities{
+    text-decoration: none;
+    font-style: italic;
+    color: rgb(251, 253, 253);
+    left: 980px;
+    font-size: 20px;
+    top: 55px;
+    position: fixed;
+}
+.cpclogo{
+    width: 200px;
+    position: relative; left: 1170px; bottom: 100px;
+}
+.tributes{
+    text-decoration: none;
+    font-style: italic;
+    color: rgb(255, 255, 255);
+    position: relative; left: 330px; bottom: 85px;
+    font-size: 20px;
+}

@@ -1,0 +1,28 @@
+body{
+       background:  url(image/korea.jpg) no-repeat ;
+       background-size: cover;
+}
+.img{
+       width: 1400px;
+       height: 500px;
+}
+.img1{
+       width: 275px;
+       height: 200px;
+}
+.img2{
+       width: 275px;
+       height: 200px;
+}
+.img3{
+       width: 275px;
+       height: 200px;
+}
+.img4{
+       width: 275px;
+       height: 200px;
+}
+.img5{
+       width: 275px;
+       height: 200px;
+}
